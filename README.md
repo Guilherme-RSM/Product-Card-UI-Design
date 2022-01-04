@@ -3,6 +3,8 @@
 Este foi o primeiro exercício prático de 2022 que realizei. <br>
 <a href="https://www.youtube.com/watch?v=jUByQLfakJ8">Clique aqui para acessar o tutorial disponível no Canal do Youtube de Md Irshad Ansari</a><br>
 <hr>
+<img src="img/preview.gif">
+
 <a href="https://guilherme-rsm.github.io/Product-Card-UI-Design/">Clique aqui para visualizar no Github Pages</a>
 
 <h2>Tecnologias Utilizadas</h2>
